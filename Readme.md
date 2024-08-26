@@ -98,7 +98,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- Thanks to [dataset source] for providing the data used in this project.
-- Inspiration and guidance from various online tutorials and communities.
+- Thanks to kaggle for providing the data used in this project.
+- Inspiration and guidance from various online tutorials of Code basics.
 
 ---
