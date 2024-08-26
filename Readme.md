@@ -115,8 +115,6 @@ To deploy the project:
 ![Home Page](./images/home-price-ui.png)
 ![Prediction Result](./images/home-price-ui-work.png)
 
-*Note: Replace `path/to/homepage_screenshot.png` and `path/to/prediction_screenshot.png` with the actual paths to your images.*
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
