@@ -2,30 +2,7 @@
 
 ## Overview
 
-This project aims to predict home prices using a machine learning regression model. The project is divided into multiple components, including data preprocessing, model training, and deployment of a web application that allows users to input home features and get price predictions.
-
-## Project Structure
-
-- **client/**: Contains the frontend code that users interact with.
-- **model/**: Includes the machine learning models used for predicting home prices.
-- **server/**: Contains the backend code that handles API requests and serves the model.
-- **Procfile**: Used for deploying the application on platforms like Heroku.
-- **requirements.txt**: Lists the Python dependencies required for running the project.
-
-## Setup Instructions
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone <repository_url>
-Certainly! Here's how that content would look formatted in markdown, ready to be copied into your `README.md` file:
-
-```markdown
-# Home Price Prediction
-
-## Overview
-
-This project aims to predict home prices using a machine learning regression model. The project is divided into multiple components, including data preprocessing, model training, and deployment of a web application that allows users to input home features and get price predictions.
+This project aims to predict home prices using a machine learning regression model. The project is divided into multiple components, including the data preprocessing, model training, and deployment of a web application that allows users to input home features and get price predictions.
 
 ## Project Structure
 
@@ -112,8 +89,8 @@ To deploy the project:
 
 ## Example Screenshots
 
-![Home Page](./images/home-price-ui.png)
-![Prediction Result](./images/home-price-ui-work.png)
+- ![Home Page](./images/home-price-ui.png)
+- ![Prediction Result](./images/home-price-ui-work.png)
 
 ## License
 
@@ -121,6 +98,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- Thanks to kaggle for providing the data used in this project.
-- Inspiration and guidance from various online tutorials and communities code basics.
-```
+- Thanks to [dataset source] for providing the data used in this project.
+- Inspiration and guidance from various online tutorials and communities.
+
+---
